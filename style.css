@@ -63,7 +63,7 @@ body {
 
 .blocRight {
     width: 75%;
-    background-image: url('https://uploads.sitepoint.com/wp-content/uploads/2016/06/1466567385sp.svg');
+    background-image: url(backgroundcv.svg);
     background-size: cover;
     background-position: center;
     /* height: 100%; */
