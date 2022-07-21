@@ -1,0 +1,10 @@
+body {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+}
+
+.blocLeft {
+    width: 50%;
+    background-color: red;
+}
