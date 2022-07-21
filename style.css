@@ -25,6 +25,7 @@ body {
     padding-right: 2em;
     overflow: hidden;
     gap: 2.5em;
+
 }
 
 .blocLeft img {
@@ -121,19 +122,55 @@ main {
 
 }
 .education {
-height: 20%;
-max-width: 100%;  
-display: flex; 
-flex-direction: column;
-gap: 0.5em;
-margin: 2em 2em 2em 2em;
-align-content: center;
-margin: 0;
-padding: 2em;
-overflow: hidden;  
-font-size: 1.3em;
-border-bottom: 1px #f6b64c solid;
-position: relative;
+    height: 20%;
+    max-width: 100%;  
+    display: flex; 
+    flex-direction: column;
+    gap: 0.5em;
+    margin: 2em 2em 2em 2em;
+    align-content: center;
+    margin: 0;
+    padding: 2em;
+    overflow: hidden;  
+    font-size: 1.3em;
+    border-bottom: 1px #f6b64c solid;
+    position: relative;
+}
+
+.experiences {
+    height: 35%;
+    max-width: 100%;  
+    display: flex; 
+    flex-direction: column;
+    gap: 0.5em;
+    margin: 2em 2em 2em 2em;
+    align-content: center;
+    margin: 0;
+    padding: 2em;
+    overflow: hidden;  
+    font-size: 1.3em;
+    border-bottom: 1px #f6b64c solid;
+    position: relative;
+    overflow-y: scroll;
+    scrollbar-color: red;
+}
+
+
+
+.skills {
+    height: 35%;
+    max-width: 100%;  
+    display: flex; 
+    flex-direction: column;
+    gap: 0.5em;
+    margin: 2em 2em 2em 2em;
+    align-content: center;
+    margin: 0;
+    padding: 2em;
+    overflow: hidden;  
+    font-size: 1.3em;
+    border-bottom: 1px #f6b64c solid;
+    position: relative;
 }
 
 
