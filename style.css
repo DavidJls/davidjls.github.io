@@ -63,7 +63,7 @@ body {
 
 .blocRight {
     width: 75%;
-    background-image: url(backgroundcv.svg);
+    background-image: url(backgroundcv.SVG);
     background-size: cover;
     background-position: center;
     /* height: 100%; */
